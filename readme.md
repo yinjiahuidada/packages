@@ -1,5 +1,5 @@
 # packages
-## 蔬菜周报生成器 v1.01 [main.py](https://github.com/yinjiahuidada/shaoxing-code/blob/main/main.py)
+## 蔬菜周报生成器 v1.02 [main.py](https://github.com/yinjiahuidada/shaoxing-code/blob/main/main.py)
 ```
-branch:main 3b026b9 (3b026b9e8fb81c1139357a1c80f76ba450eb73d6)
+branch:main d2fe5a0 (d2fe5a042c6ce2870a06d94762d822d2cf68498d)
 ```
